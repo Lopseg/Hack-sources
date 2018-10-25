@@ -1,3 +1,5 @@
+// WRITEN BY RAFAEL "LOPSEG" RODRIGUES DA SILVA
+// FEEL FREE TO MAKE CHANGES
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
