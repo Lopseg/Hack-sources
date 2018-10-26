@@ -1,3 +1,6 @@
+//WRITEN BY LOPSEG
+// USE CAREFULLY, DO NOT HACK YOUR GRANDMA COMPUTER WITH THIS
+
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
