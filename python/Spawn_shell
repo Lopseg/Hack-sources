@@ -1,0 +1,4 @@
+//Huge thanks to Usama Azad for that
+
+import pty
+pty.spawn('/bin/bash')
