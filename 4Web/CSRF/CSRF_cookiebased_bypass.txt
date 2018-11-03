@@ -1,6 +1,6 @@
 ###PAYLOAD FOR COOKIE BASED MECHANISMS 
 ### SPECIAL THANKS TO VKOBEL
-
+### Originally posted on https://gist.github.com/vkobel/4de2c7afc62f057d52fd
 
 
 <body onload="get()">
