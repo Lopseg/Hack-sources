@@ -1,0 +1,24 @@
+“Hackme.tld” API_key
+“Hackme.tld” secret_key
+“Hackme.tld” aws_key
+“Hackme.tld” Password 
+“Hackme.tld” FTP
+“Hackme.tld” login
+“Hackme.tld” github_token
+“Hackme.tld” http:// & https://  
+“Hackme.tld” amazonaws
+“Hackme.tld” digitaloceanspaces
+“Hackme.tld” storage.googleapis.com
+“Hackme.tld” access_token
+“Hackme.tld” blob.core.windows.net
+“Hackme.tld” token
+“Hackme.tld” secret
+“Hackme.tld” TODO
+“Hackme.tld” vulnerable
+“Hackme.tld” CSRF
+“Hackme.tld” Hash
+“Hackme.tld” random
+“Hackme.tld” HMAC
+“Hackme.tld” MD5, SHA-1, SHA-2, etc.
+
+credits @edoverflow & @nahamsec. 
