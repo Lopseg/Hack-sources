@@ -1,5 +1,5 @@
-# Payloads
-Accuratted list of payloads that i developed over my life.
+# Hack sources
+Accuratted list of Hack sources that i developed over my life.
 
 (and there is some other ones that i've founded over the internet [repositories, blogs, grandma browser cache).
 
@@ -19,7 +19,7 @@ For encryption/encoding there are some ones using:
 
 I'm still developping some of them, or trying to find, so of course i didn't cover every test case, but for the basic purpose of executing comands they are so much usefull.
 
-Take a look at my <a href=https://dealwithrafa.wordpress.com>blog</a>
+Take a look at my <a href=https://lops3g.wordpress.com>blog</a>
 
 *Lopseg*
 
