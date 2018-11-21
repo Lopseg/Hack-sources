@@ -21,5 +21,7 @@ I'm still developping some of them, or trying to find, so of course i didn't cov
 
 Take a look at my <a href=https://lops3g.wordpress.com>blog</a>
 
+*Ps. it's still messy yet *
+
 *Lopseg*
 
